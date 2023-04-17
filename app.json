@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Fit_Genius",
+    "slug": "Fit_Genius",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
